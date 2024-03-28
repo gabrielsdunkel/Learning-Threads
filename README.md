@@ -25,4 +25,7 @@ Evidencia-se uma tendência clara: à medida que o número de threads aumenta, o
 | 10          | 82    |
 
 No gráfico abaixo, é possível visualizar o padrão mencionado anteriormente.
-(Imagem)
+
+<div align="lefth">
+<img src="https://github.com/gabrielsdunkel/Learning-Threads/assets/90232353/ab8d33a3-c68a-4c22-883e-114f79261837" width = "400px"/>
+</div>
